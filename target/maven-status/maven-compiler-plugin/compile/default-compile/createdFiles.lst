@@ -1,0 +1,5 @@
+config\WebConfig.class
+config\core\SpringSecurityInitializer.class
+config\SecurityConfig.class
+controller\LoginController.class
+config\core\SpringMvcInitializer.class
